@@ -20,10 +20,6 @@ Currently, I’m also strengthening my **problem-solving skills by practicing DS
 - 💡 **Focus**: High-performance, mobile-first design with seamless user experiences.  
 - 🌍 **Mission**: Turning ideas into impactful digital products.  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoZZ1Y6v7qJ3W/giphy.gif" alt="Web Development GIF" width="300" />
-</p>
-
 ---
 
 ## 💼 **Work Experience**
@@ -106,9 +102,7 @@ Currently, I’m also strengthening my **problem-solving skills by practicing DS
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharaneeswar-Reddy-Avula&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="300" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharaneeswar-Reddy-Avula&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+
 
 ---
 
